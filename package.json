@@ -1,0 +1,19 @@
+{
+  "name": "nodehero-authentication",
+  "version": "1.0.0",
+  "description": "1. `git clone git@github.com:RisingStack/nodehero-authentication.git` 2. `cd nodehero-authentication` 3. `npm install` 4. `REDIS_STORE_URI=redis://localhost REDIS_STORE_SECRET=my-strong-secret npm start`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CookiesDesign/nodehero-authentication.git"
+  },
+  "author": "Cookies Design",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CookiesDesign/nodehero-authentication/issues"
+  },
+  "homepage": "https://github.com/CookiesDesign/nodehero-authentication#readme"
+}
